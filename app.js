@@ -11,7 +11,7 @@ mongoose.connect(dbURI)
 .catch((error)=>console.log(err));
 
 //app.get()
-
+//testing
 //async function main() {
     //console.log("in main function")
     //const uri = "mongodb+srv://ryanqfleming:DCFjbZHKL9Atku9w@cluster0.ncp8j.mongodb.net/sample_airbnb?retryWrites=true&w=majority";
